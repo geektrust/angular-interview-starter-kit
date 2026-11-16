@@ -12,6 +12,7 @@ coverage
 
 LICENSE
 .gitignore
+package-lock.json
 .editorconfig
 .prettierrc
 eslint.config.js
