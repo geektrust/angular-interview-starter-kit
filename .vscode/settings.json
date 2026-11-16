@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.vscode": true,
+    "**/.gtignore": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.angular": true,
+    "**/coverage": true,
+    "**/package-lock.json": true,
+    "**/.gitignore": true,
+    "**/.editorconfig": true,
+    "**/.prettierrc": true,
+    "**/LICENSE": true,
+    "**/eslint.config.js": true,
+    "**/scripts/preview-url.mjs": true
+  }
+}
